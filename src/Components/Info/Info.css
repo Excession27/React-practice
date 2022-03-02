@@ -1,0 +1,97 @@
+.Info {
+    text-align: center;
+    background: #1A1B21;
+    margin-left: 116px;
+    margin-right: 116px; 
+    border-radius: 15px 15px 0 0;
+}
+
+.Info > img {
+    width: 317px;
+    border-radius: 15px 15px 0 0;
+}
+
+.Info h4 {
+    color: #F3BF99;
+}
+
+.name-role-site>a {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10.24px;
+    line-height: 150%;
+
+    /* identical to box height, or 15px */
+    text-align: center;
+
+    color: #F5F5F5;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    
+}
+
+.buttons>a {
+    width: 115px;
+    height: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 17px;
+}
+
+.buttons>a>* {
+    padding: 10px;
+}
+
+
+
+.email {
+    /* white */
+    background: #FFFFFF;
+
+    /* gray/300 */
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+
+    /* shadow/sm */
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* identical to box height, or 114% */
+
+    /* gray/700 */
+    color: #374151;
+}
+
+.linkedin {
+
+
+    background: #5093E2;
+
+    /* shadow/sm */
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* identical to box height, or 114% */
+
+    color: #FFFFFF;
+}

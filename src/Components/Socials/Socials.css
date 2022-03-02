@@ -1,0 +1,17 @@
+.Socials {
+    margin-right: 116px;
+    margin-left: 116px;
+    background: #161619;
+    height: 64px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 0 0 10px 10px;
+}
+
+.Socials > a {
+    margin-right: 12px;
+    margin-left: 12px;
+}
