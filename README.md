@@ -1,5 +1,7 @@
 ## Separated into branches are different projects from a course I used to get familiar with React
 
+
+
 # Digital business card - first course project using React
 The goal of this project is to get used to creating React components from scratch
 
